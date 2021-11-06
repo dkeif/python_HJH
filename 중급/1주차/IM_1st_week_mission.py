@@ -62,12 +62,12 @@ print(num)
 '''
 ## 연습문제4: 입력O, 출력O인 함수
 ## >> a,b를 입력하면 두 수의 합을 반환하는 add()
-
+'''
 def add(x,y):
     return x+y
 X = add(18,28)
 print(X)
-
+'''
 ## 함수 Mission: 앞서 반복문 Mission4에서 그린 무지개를 "함수"로 만들어보자
 ## 조건은 ppt '함수 Mission' 참고
 '''
