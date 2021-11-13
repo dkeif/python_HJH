@@ -66,7 +66,7 @@ if count > 9:
 '''
 ## 반복문 추가문제 Mission3: turtle 모듈을 활용하여 무지개 만들기
 ### for 반복문 Mission2: turtle 모듈을 활용하여 무지개 만들기
-
+'''
 import turtle
 
 # 변수 및 객체 선언
@@ -93,7 +93,7 @@ for i in range(7):
     t.pendown()
     t.circle(rainbow_size-(i*pen_size), 180)
 turtle.mainloop()
-
+'''
 # [함수]
 ##: 여러개의 명령어들을 묶어서 한꺼번에 처리할 수 있도록 만든 하나의 명령어 묶음에 이름을 붙인 것.
 ## 문법: def 함수이름(매개변수1, 매개변수2, ...):
